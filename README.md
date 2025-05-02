@@ -12,7 +12,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 
 ## 🔗 Live Site
 
-Check it out here: [**WEBSITE**](https://harshgidwani.netlify.app)
+Check it out here: [**LIVE**](https://harshgidwani.netlify.app)
 
 ## 📂 Features
 
